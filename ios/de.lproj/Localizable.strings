@@ -1,0 +1,9 @@
+/* 
+  Localizable.strings
+  CoronaScience
+
+  Created by Olivier Descloux on 28.04.20.
+  Copyright © 2020 BFH - I4MI. All rights reserved.
+*/
+
+NOTIFICATION_ACTION_UPDATE_APP = "Die Applikation Corona Science wurde aktualisiert, bitte installiere die neue Version.";

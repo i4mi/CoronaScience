@@ -1,0 +1,231 @@
+{
+	"common": {
+		"back": "Enavos",
+		"cancel": "Rumper giu",
+		"invalidAnswer": "resposta nunvalaivla",
+		"loading": "Chargiar datas",
+		"login": "Registrar/annunziar",
+		"loginPromptText": "Fa uschè bain, e registra per savair utilisar las ulteriuras funcziuns da «Corona Science».",
+		"loginPromptTitle": "Registraziun",
+		"logout": "Sortir",
+		"multipleChoice": "Selecziun multipla",
+		"next": "Vinavant",
+		"no": "Na",
+		"notifications": {
+			"allow": "Permetta ils avertiments",
+			"title": "Avis"
+		},
+		"ok": "OK",
+		"save": "Memorisar",
+		"skip": "Sursiglir",
+		"yes": "Gea"
+	},
+	"dashboard": {
+		"completeSituation": "Mia situaziun persunala",
+		"enterHealthStatus": "Mes stadi da sanadad",
+		"faq": {
+			"hyperlink": "https://coronascience.ch/de/faq/"
+		},
+		"getInfo": "Infurmaziuns davart il virus",
+		"questionOfTheDay": {
+			"noAnswer": "Respunda la dumanda p.pl. avant che memorisar.",
+			"thankYou": "Grazia per tia resposta. La proxima dumonda suonda prest."
+		},
+		"slogan": "Ensemen encunter il virus da corona!",
+		"totalCollectedData": "Registers",
+		"totalUser": "Persunas"
+	},
+	"healthStatus": {
+		"furtherInfo": "Dapli infurmaziuns",
+		"noAnswer": "vul na respunder",
+		"symptoms": {
+			"anosmia": "Reducziun da l'aroma/savur",
+			"cough": "Tuss",
+			"diarrhea": "Diarrea",
+			"dyspnea": "Difficultad da respirar",
+			"fatigue": "Stancladad",
+			"headache": "Mal il chau",
+			"limbPain": "Mal las giugadiras",
+			"measuredTemperature": "Mesirà temperatura",
+			"symptoms": "Sintoms",
+			"throatPain": "Mal la gula",
+			"title": "Endataziun"
+		},
+		"thankYou": "Grazia per tia collavuraziun. I fiss fitg util sche ti endatassas tes stadi da sanadad duas giadas l’emna."
+	},
+	"impressum": {
+		"categories": {
+			"dataset": {
+				"subtitle": "FHIR Implementation Guide COVID-19 PROM Dataset",
+				"title": "Spezificaziun da l’unitad da datas"
+			},
+			"design": {
+				"subtitle": "",
+				"title": "Design visuala"
+			},
+			"editor": {
+				"subtitle": "",
+				"title": "Editur dalla app e controlla da datas"
+			},
+			"socialMedia": {
+				"subtitle": "",
+				"title": "Administraziun las medias socialas"
+			},
+			"sponsors": {
+				"subtitle": "Sponsoren und Partner haben keinen privilegierten Zugang zu den Daten.",
+				"title": "Sponsurs e partenaris"
+			},
+			"standard": {
+				"subtitle": "FHIR® è la marca registrada da HL7. Ella vegn duvrada cun permiss da HL7. L’utilisaziun da l’ensaina da la marca FHIR na signifitga betg che HL7 approva quest product.",
+				"title": "Standard"
+			},
+			"supportedBy": {
+				"subtitle": "",
+				"title": "Sustegnì da"
+			}
+		},
+		"partners": {
+			"advocacy": {
+				"hyperlink": "https://www.advocacy.ch/de"
+			},
+			"ahdis": {
+				"hyperlink": "http://www.ahdis.ch"
+			},
+			"bfh": {
+				"hyperlink": "https://i4mi.bfh.ch"
+			},
+			"canton-be": {
+				"hyperlink": "https://www.gef.be.ch/gef/de/index.html"
+			},
+			"canton-ne": {
+				"hyperlink": "https://www.ne.ch/autorites/DFS/SCSP/Pages/accueil.aspx"
+			},
+			"citizenscience": {
+				"hyperlink": "https://citizenscience.ch/de"
+			},
+			"corona": {
+				"hyperlink": "https://coronascience.ch/de"
+			},
+			"ehealthsuisse": {
+				"hyperlink": "https://www.e-health-suisse.ch/de"
+			},
+			"elca": {
+				"hyperlink": "https://www.elca.ch/de"
+			},
+			"evaluescience": {
+				"hyperlink": "https://www.evaluescience.com"
+			},
+			"fhir": {
+				"hyperlink": "https://www.fhir.org"
+			},
+			"galenica": {
+				"hyperlink": "https://www.galenica.com/de"
+			},
+			"gfch": {
+				"hyperlink": "https://gesundheitsfoerderung.ch"
+			},
+			"gfsbern": {
+				"hyperlink": "https://www.gfsbern.ch/de"
+			},
+			"hl7": {
+				"hyperlink": "https://www.hl7.ch"
+			},
+			"htcs": {
+				"hyperlink": "https://www.healthtech.ch"
+			},
+			"midata": {
+				"hyperlink": "https://midata.coop"
+			},
+			"opendata": {
+				"hyperlink": "https://opendata.ch"
+			},
+			"richner": {
+				"hyperlink": "https://www.atelierrichner.ch"
+			},
+			"roche": {
+				"hyperlink": "https://www.roche.ch/pharma.htm"
+			},
+			"santenext": {
+				"hyperlink": "https://santenext.ch/de"
+			},
+			"schwedin": {
+				"hyperlink": "https://schwedin.ch"
+			},
+			"sdsc": {
+				"hyperlink": "https://datascience.ch"
+			},
+			"sgmi": {
+				"hyperlink": "https://sgmi-ssim.org"
+			},
+			"simeio": {
+				"hyperlink": "https://simeio.ch"
+			},
+			"swisslung": {
+				"hyperlink": "https://swisslung.org/de"
+			}
+		}
+	},
+	"information": {
+		"title": "Informaziuns"
+	},
+	"intro": {
+		"community": {
+			"text": "Daventa commember da la community e sustegna cun tias datas anonimisadas il cumbat cunter la pandemia.",
+			"title": "Ensemen cunter il coronavirus!"
+		},
+		"dataSharing": {
+			"text": "Endatescha tes stadi da sanadad ed autras infurmaziuns davart COVID-19 duas giadas l’emna.",
+			"title": "Donar datas"
+		},
+		"measures": {
+			"text": "Observa las mesiras da la Confederaziun e surpiglia responsabladad – Tegna distanza.",
+			"title": "Social Distancing"
+		},
+		"notifications": {
+			"later": "Pli tard",
+			"text": "Permetta p.pl. ils avertiments per pudair t’avisar cura ch’il è temp dad endatar las datas."
+		},
+		"research": {
+			"text": "Tias datas vegnan anonimisadas e messas a disposiziun a la Open Data Community.",
+			"title": "Pussibiltar la retschertga"
+		}
+	},
+	"settings": {
+		"myAccount": {
+			"title": "Mes conto"
+		},
+		"notifications": {
+			"information": "Regurdientschas se muossan mo, sche negins sintoms ein vegni tschiffai egl interval selecziunau."
+		},
+		"other": {
+			"contact": {
+				"title": "Scriva nus",
+				"url": "mailto:info@coronascience.ch"
+			},
+			"feedback": {
+				"title": "App Feedback"
+			},
+			"impressum": "Impressum",
+			"privacyPolicy": {
+				"title": "Decleraziun davart la protecziun da datas",
+				"url": "https://ch.midata.coop/#/portal/terms/midata-privacy-policy?lang=de"
+			},
+			"termsOfUse": {
+				"title": "Cundiziuns d'utilisaziun",
+				"url": "https://ch.midata.coop/#/portal/terms/corona-science-terms-of-use--1.0?lang=de"
+			},
+			"title": "Dapli Corona Science"
+		},
+		"title": "Preferenzas",
+		"userInterface": {
+			"selectLanguage": "Linguas",
+			"title": "Linguatg"
+		}
+	},
+	"situation": {
+		"complete": "Sch’ella sa mida, n’emblida betg da l’actualisar en l’app.",
+		"incomplete": "Ti n’has betg respundì ad almain ina dumonda. Vuls ti far quai anc?",
+		"thankYou": "Grazia per l'endataziun da tia situaziun persunala.",
+		"title": "Situaziun persunala"
+	}
+}

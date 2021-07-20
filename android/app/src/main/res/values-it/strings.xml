@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Corona Science</string>
+    <string name="NOTIFICATION_ACTION_UPDATE_APP">L\'applicazione Corona Science è stata aggiornata, si prega di installare la nuova versione.</string>
+</resources>

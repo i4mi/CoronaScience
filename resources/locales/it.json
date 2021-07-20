@@ -1,0 +1,231 @@
+{
+	"common": {
+		"back": "Indietro",
+		"cancel": "Annullare",
+		"invalidAnswer": "risposta non valida",
+		"loading": "Caricamento dati",
+		"login": "Iscriviti/Accedi",
+		"loginPromptText": "Iscriviti o accedi a MIDATA per salvare i tuoi dati.",
+		"loginPromptTitle": "Iscrizione",
+		"logout": "Disconnetti",
+		"multipleChoice": "Scelta multipla",
+		"next": "Avanti",
+		"no": "No",
+		"notifications": {
+			"allow": "Consentire le notifiche",
+			"title": "Promemoria"
+		},
+		"ok": "OK",
+		"save": "Salva",
+		"skip": "Salta",
+		"yes": "Si"
+	},
+	"dashboard": {
+		"completeSituation": "La mia situazione personale",
+		"enterHealthStatus": "Il mio stato di salute",
+		"faq": {
+			"hyperlink": "https://coronascience.ch/it/faq-4/"
+		},
+		"getInfo": "Informazioni utili sul virus",
+		"questionOfTheDay": {
+			"noAnswer": "Per favore, rispondi alla domanda prima di salvare.",
+			"thankYou": "Grazie per la tua risposta. La prossima domanda seguirà presto."
+		},
+		"slogan": "Insieme contro il coronavirus!",
+		"totalCollectedData": "Set di dati",
+		"totalUser": "Persone"
+	},
+	"healthStatus": {
+		"furtherInfo": "Ulteriori informazioni",
+		"noAnswer": "non voglio rispondere",
+		"symptoms": {
+			"anosmia": "Perdita dell'\n­olfatto/gusto",
+			"cough": "Tosse",
+			"diarrhea": "Diarrea",
+			"dyspnea": "Fiato corto",
+			"fatigue": "Affaticamento",
+			"headache": "Mal di testa",
+			"limbPain": "Dolori muscolari",
+			"measuredTemperature": "Temperatura misurata",
+			"symptoms": "Sintomi",
+			"throatPain": "Mal di gola",
+			"title": "Inserimento"
+		},
+		"thankYou": "Grazie per il tuo contributo. Sarebbe molto utile se registrassi il tuo stato di salute due volte alla settimana."
+	},
+	"impressum": {
+		"categories": {
+			"dataset": {
+				"subtitle": "FHIR Implementation Guide COVID-19 PROM Dataset",
+				"title": "Specifiche del set di dati"
+			},
+			"design": {
+				"subtitle": "",
+				"title": "Visual design"
+			},
+			"editor": {
+				"subtitle": "",
+				"title": "Autore della app e repository sicura dei dati"
+			},
+			"socialMedia": {
+				"subtitle": "",
+				"title": "Gestione dei social media"
+			},
+			"sponsors": {
+				"subtitle": "Sponsor e partner non hanno accesso privilegiato ai dati.",
+				"title": "Sponsor e partner"
+			},
+			"standard": {
+				"subtitle": "FHIR® è un marchio registrato di HL7 e viene utilizzato con il permesso di HL7. L'uso del marchio FHIR non costituisce approvazione di questo prodotto da parte di HL7.",
+				"title": "Standard"
+			},
+			"supportedBy": {
+				"subtitle": "",
+				"title": "Supportato da"
+			}
+		},
+		"partners": {
+			"advocacy": {
+				"hyperlink": "https://www.advocacy.ch/de"
+			},
+			"ahdis": {
+				"hyperlink": "http://www.ahdis.ch"
+			},
+			"bfh": {
+				"hyperlink": "https://i4mi.bfh.ch"
+			},
+			"canton-be": {
+				"hyperlink": "https://www.gef.be.ch/gef/de/index.html"
+			},
+			"canton-ne": {
+				"hyperlink": "https://www.ne.ch/autorites/DFS/SCSP/Pages/accueil.aspx"
+			},
+			"citizenscience": {
+				"hyperlink": "https://citizenscience.ch/de"
+			},
+			"corona": {
+				"hyperlink": "https://coronascience.ch/it"
+			},
+			"ehealthsuisse": {
+				"hyperlink": "https://www.e-health-suisse.ch/it"
+			},
+			"elca": {
+				"hyperlink": "https://www.elca.ch/de"
+			},
+			"evaluescience": {
+				"hyperlink": "https://www.evaluescience.com"
+			},
+			"fhir": {
+				"hyperlink": "https://www.fhir.org"
+			},
+			"galenica": {
+				"hyperlink": "https://www.galenica.com/de"
+			},
+			"gfch": {
+				"hyperlink": "https://promozionesalute.ch"
+			},
+			"gfsbern": {
+				"hyperlink": "https://www.gfsbern.ch/de"
+			},
+			"hl7": {
+				"hyperlink": "https://www.hl7.ch"
+			},
+			"htcs": {
+				"hyperlink": "https://www.healthtech.ch"
+			},
+			"midata": {
+				"hyperlink": "https://www.midata.coop/it"
+			},
+			"opendata": {
+				"hyperlink": "https://opendata.ch"
+			},
+			"richner": {
+				"hyperlink": "https://www.atelierrichner.ch"
+			},
+			"roche": {
+				"hyperlink": "https://www.roche.ch/pharma.htm"
+			},
+			"santenext": {
+				"hyperlink": "https://santenext.ch/de"
+			},
+			"schwedin": {
+				"hyperlink": "https://schwedin.ch"
+			},
+			"sdsc": {
+				"hyperlink": "https://datascience.ch"
+			},
+			"sgmi": {
+				"hyperlink": "https://sgmi-ssim.org"
+			},
+			"simeio": {
+				"hyperlink": "https://simeio.ch"
+			},
+			"swisslung": {
+				"hyperlink": "https://swisslung.org/it"
+			}
+		}
+	},
+	"information": {
+		"title": "Informazioni"
+	},
+	"intro": {
+		"community": {
+			"text": "Diventa membro della comunità e sostieni la lotta contro la pandemia grazie ai tuoi dati anonimi.",
+			"title": "Insieme contro il coronavirus!"
+		},
+		"dataSharing": {
+			"text": "Riporta il tuo stato di salute ed ulteriori informazioni relative al COVID-19 due volte alla settimana.",
+			"title": "Donare i dati"
+		},
+		"measures": {
+			"text": "Rispetta le misure dettate della Confederazione e sii responsabile – Tieniti a distanza.",
+			"title": "Social Distancing"
+		},
+		"notifications": {
+			"later": "A dopo",
+			"text": "Attiva per favore la ricezione delle notifiche, così che potremo ricordarti quando è il momento di registrare nuovi dati."
+		},
+		"research": {
+			"text": "I tuoi dati saranno resi disponibili in forma anonima alla comunità Open Data.",
+			"title": "Attivare la ricerca"
+		}
+	},
+	"settings": {
+		"myAccount": {
+			"title": "Il mio conto"
+		},
+		"notifications": {
+			"information": "I promemoria appaiono solo se non sono stati registrati sintomi nell'intervallo selezionato."
+		},
+		"other": {
+			"contact": {
+				"title": "Scrivici",
+				"url": "mailto:info@coronascience.ch"
+			},
+			"feedback": {
+				"title": "Suggerimenti per l'app"
+			},
+			"impressum": "Impressum",
+			"privacyPolicy": {
+				"title": "Dichiarazione sui dati personali",
+				"url": "https://ch.midata.coop/#/portal/terms/midata-privacy-policy?lang=it"
+			},
+			"termsOfUse": {
+				"title": "Termini d'uso",
+				"url": "https://ch.midata.coop/#/portal/terms/corona-science-terms-of-use--1.0?lang=it"
+			},
+			"title": "Informazioni su Corona Science"
+		},
+		"title": "Configurazioni",
+		"userInterface": {
+			"selectLanguage": "Lingue",
+			"title": "Lingua"
+		}
+	},
+	"situation": {
+		"complete": "Se dovesse cambiare, non dimenticare di aggiornarla nell'applicazione.",
+		"incomplete": "Non hai risposto ad almeno una domanda, non vuoi farlo?",
+		"thankYou": "Grazie per aver registrato la tua situazione personale.",
+		"title": "Situazione personale"
+	}
+}

@@ -1,0 +1,10 @@
+/*
+  InfoPlist.strings
+  CoronaScience
+
+  Created by Olivier Descloux on 30.03.20.
+  Copyright © 2020 MIDATA. All rights reserved.
+*/
+ENTER_SYMPTOMS = "Mein Gesundheitszustand";
+GET_INFORMED = "Informationen";
+MY_PROFILE= "Meine persönliche Situation";

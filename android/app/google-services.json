@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "545828800731",
+    "firebase_url": "https://corona-science.firebaseio.com",
+    "project_id": "corona-science",
+    "storage_bucket": "corona-science.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:545828800731:android:0b9aefb7e46626da46a4fe",
+        "android_client_info": {
+          "package_name": "com.coronascience"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "545828800731-brurt7a0r0640lavbasds5v6rimf8b70.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgu2fTEUpnVmbmG3HJ-cnkSs_zqq-q7pk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "545828800731-brurt7a0r0640lavbasds5v6rimf8b70.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "545828800731-f1ir1l88oe9rn7ud33sq3ln4pon6621h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "ch.bfh.ti.i4mi.coronaScience"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

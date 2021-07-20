@@ -1,0 +1,231 @@
+{
+	"common": {
+		"back": "Back",
+		"cancel": "Cancel",
+		"invalidAnswer": "invalid answer",
+		"loading": "Loading data",
+		"login": "Sign up/Login",
+		"loginPromptText": "Please sign up or log in to MIDATA to store your data.",
+		"loginPromptTitle": "Registration",
+		"logout": "Log out",
+		"multipleChoice": "Multiple choice",
+		"next": "Next",
+		"no": "No",
+		"notifications": {
+			"allow": "Allow notifications",
+			"title": "Reminders"
+		},
+		"ok": "OK",
+		"save": "Save",
+		"skip": "Skip",
+		"yes": "Yes"
+	},
+	"dashboard": {
+		"completeSituation": "My personal situation",
+		"enterHealthStatus": "My health status",
+		"faq": {
+			"hyperlink": "https://coronascience.ch/en/faq-2/"
+		},
+		"getInfo": "Information about the virus",
+		"questionOfTheDay": {
+			"noAnswer": "Please answer the question before saving.",
+			"thankYou": "Thank you for your response. The next question will follow soon."
+		},
+		"slogan": "Together against the coronavirus!",
+		"totalCollectedData": "Datasets",
+		"totalUser": "Persons"
+	},
+	"healthStatus": {
+		"furtherInfo": "Further information",
+		"noAnswer": "does not wish to answer",
+		"symptoms": {
+			"anosmia": "Loss of smell/taste",
+			"cough": "Cough",
+			"diarrhea": "Diarrhea",
+			"dyspnea": "Shortness of breath",
+			"fatigue": "Fatigue",
+			"headache": "Headache",
+			"limbPain": "Limb pain",
+			"measuredTemperature": "Temperature measured",
+			"symptoms": "Symptoms",
+			"throatPain": "Sore throat",
+			"title": "Data entry"
+		},
+		"thankYou": "Thank you for your contribution. It would be very helpful if you would enter your health status twice a week."
+	},
+	"impressum": {
+		"categories": {
+			"dataset": {
+				"subtitle": "FHIR Implementation Guide COVID-19 PROM Dataset",
+				"title": "Data set specification"
+			},
+			"design": {
+				"subtitle": "",
+				"title": "Visual design"
+			},
+			"editor": {
+				"subtitle": "",
+				"title": "Publisher of the app and secure data repository"
+			},
+			"socialMedia": {
+				"subtitle": "",
+				"title": "Social media management"
+			},
+			"sponsors": {
+				"subtitle": "Sponsors and partners have no privileged access to the data.",
+				"title": "Sponsors and partners"
+			},
+			"standard": {
+				"subtitle": "FHIR® is the registered trademark of HL7 and is used with the permission of HL7. Use of the FHIR trademark does not constitute endorsement of this product by HL7.",
+				"title": "Standard"
+			},
+			"supportedBy": {
+				"subtitle": "",
+				"title": "Supported by"
+			}
+		},
+		"partners": {
+			"advocacy": {
+				"hyperlink": "https://www.advocacy.ch/de"
+			},
+			"ahdis": {
+				"hyperlink": "http://www.ahdis.ch"
+			},
+			"bfh": {
+				"hyperlink": "https://www.bfh.ch/en/research/research-areas/institute-medical-informatics-i4mi/"
+			},
+			"canton-be": {
+				"hyperlink": "https://www.gef.be.ch/gef/de/index.html"
+			},
+			"canton-ne": {
+				"hyperlink": "https://www.ne.ch/autorites/DFS/SCSP/Pages/accueil.aspx"
+			},
+			"citizenscience": {
+				"hyperlink": "https://citizenscience.ch/en"
+			},
+			"corona": {
+				"hyperlink": "https://coronascience.ch/en"
+			},
+			"ehealthsuisse": {
+				"hyperlink": "https://www.e-health-suisse.ch/de"
+			},
+			"elca": {
+				"hyperlink": "https://www.elca.ch/en"
+			},
+			"evaluescience": {
+				"hyperlink": "https://www.evaluescience.com/?lang=en"
+			},
+			"fhir": {
+				"hyperlink": "https://www.fhir.org"
+			},
+			"galenica": {
+				"hyperlink": "https://www.galenica.com/en"
+			},
+			"gfch": {
+				"hyperlink": "https://gesundheitsfoerderung.ch"
+			},
+			"gfsbern": {
+				"hyperlink": "https://www.gfsbern.ch/en"
+			},
+			"hl7": {
+				"hyperlink": "https://www.hl7.ch"
+			},
+			"htcs": {
+				"hyperlink": "https://en.healthtech.ch"
+			},
+			"midata": {
+				"hyperlink": "https://www.midata.coop/en"
+			},
+			"opendata": {
+				"hyperlink": "https://opendata.ch"
+			},
+			"richner": {
+				"hyperlink": "https://www.atelierrichner.ch"
+			},
+			"roche": {
+				"hyperlink": "https://www.roche.ch/en/pharma.htm"
+			},
+			"santenext": {
+				"hyperlink": "https://santenext.ch/de"
+			},
+			"schwedin": {
+				"hyperlink": "https://schwedin.ch"
+			},
+			"sdsc": {
+				"hyperlink": "https://datascience.ch"
+			},
+			"sgmi": {
+				"hyperlink": "https://sgmi-ssim.org"
+			},
+			"simeio": {
+				"hyperlink": "https://simeio.ch"
+			},
+			"swisslung": {
+				"hyperlink": "https://swisslung.org/en"
+			}
+		}
+	},
+	"information": {
+		"title": "Information"
+	},
+	"intro": {
+		"community": {
+			"text": "Become a member of the community and support the fight against the pandemic with your anonymous data.",
+			"title": "Together against the coronavirus!"
+		},
+		"dataSharing": {
+			"text": "Enter your health status and further information about COVID-19 twice a week.",
+			"title": "Donate data"
+		},
+		"measures": {
+			"text": "Follow the measures of the Confederation and take responsibility – Keep your distance.",
+			"title": "Social Distancing"
+		},
+		"notifications": {
+			"later": "Later",
+			"text": "Please allow notifications so we can remind you when it's time to collect data again."
+		},
+		"research": {
+			"text": "Your data will be made anonymously available to the Open Data community.",
+			"title": "Enable research"
+		}
+	},
+	"settings": {
+		"myAccount": {
+			"title": "My account"
+		},
+		"notifications": {
+			"information": "Reminders appear only if no symptoms have been entered in the selected interval."
+		},
+		"other": {
+			"contact": {
+				"title": "Write us",
+				"url": "mailto:info@coronascience.ch"
+			},
+			"feedback": {
+				"title": "App Feedback"
+			},
+			"impressum": "Impressum",
+			"privacyPolicy": {
+				"title": "Privacy policy",
+				"url": "https://ch.midata.coop/#/portal/terms/midata-privacy-policy?lang=en"
+			},
+			"termsOfUse": {
+				"title": "Terms of use",
+				"url": "https://ch.midata.coop/#/portal/terms/corona-science-terms-of-use--1.0?lang=en"
+			},
+			"title": "About Corona Science"
+		},
+		"title": "Settings",
+		"userInterface": {
+			"selectLanguage": "Languages",
+			"title": "Language"
+		}
+	},
+	"situation": {
+		"complete": "Don't forget to update your answers if your situation changes.",
+		"incomplete": "You didn't answer at least one question, don't you want to do this now?",
+		"thankYou": "Thank you for entering your personal situation.",
+		"title": "Personal situation"
+	}
+}

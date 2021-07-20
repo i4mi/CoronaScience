@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>545828800731-f1ir1l88oe9rn7ud33sq3ln4pon6621h.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.545828800731-f1ir1l88oe9rn7ud33sq3ln4pon6621h</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC3tCsFO49SK320p9koMFnQsptinl9NsKo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>545828800731</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>ch.bfh.ti.i4mi.coronaScience</string>
+	<key>PROJECT_ID</key>
+	<string>corona-science</string>
+	<key>STORAGE_BUCKET</key>
+	<string>corona-science.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:545828800731:ios:25ffaa0b6cf7d0fc46a4fe</string>
+	<key>DATABASE_URL</key>
+	<string>https://corona-science.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,231 @@
+{
+	"common": {
+		"back": "Retour",
+		"cancel": "Annuler",
+		"invalidAnswer": "réponse non valable",
+		"loading": "Chargement des données",
+		"login": "Inscription/connexion",
+		"loginPromptText": "Inscris-toi ou connecte-toi à MIDATA pour enregistrer tes données.",
+		"loginPromptTitle": "Inscription",
+		"logout": "Se déconnecter",
+		"multipleChoice": "Choix multiple",
+		"next": "Suivant",
+		"no": "Non",
+		"notifications": {
+			"allow": "Autoriser les notifications",
+			"title": "Rappels"
+		},
+		"ok": "OK",
+		"save": "Enregistrer",
+		"skip": "Passer",
+		"yes": "Oui"
+	},
+	"dashboard": {
+		"completeSituation": "Ma situation personnelle",
+		"enterHealthStatus": "Mon état de santé",
+		"faq": {
+			"hyperlink": "https://coronascience.ch/fr/faq-3/"
+		},
+		"getInfo": "Informations sur le virus",
+		"questionOfTheDay": {
+			"noAnswer": "Merci de répondre à la question avant d'enregistrer.",
+			"thankYou": "Merci pour ta réponse! La prochaine question sera disponible d'ici peu."
+		},
+		"slogan": "Ensemble contre le coronavirus!",
+		"totalCollectedData": "Jeux de données",
+		"totalUser": "Personnes"
+	},
+	"healthStatus": {
+		"furtherInfo": "Informations complémentaires",
+		"noAnswer": "ne désire pas répondre",
+		"symptoms": {
+			"anosmia": "Perte de l'odorat/­du goût",
+			"cough": "Toux",
+			"diarrhea": "Diarrhée",
+			"dyspnea": "Difficultés respiratoires",
+			"fatigue": "Fatigue",
+			"headache": "Maux de tête",
+			"limbPain": "Douleurs articulaires",
+			"measuredTemperature": "Température mesurée",
+			"symptoms": "Symptômes",
+			"throatPain": "Mal de gorge",
+			"title": "Saisie"
+		},
+		"thankYou": "Merci pour ta contribution. Il serait très utile que tu documentes ton état de santé deux fois par semaine."
+	},
+	"impressum": {
+		"categories": {
+			"dataset": {
+				"subtitle": "FHIR Implementation Guide COVID-19 PROM Dataset",
+				"title": "Spécification du jeu de données"
+			},
+			"design": {
+				"subtitle": "",
+				"title": "Conception visuelle"
+			},
+			"editor": {
+				"subtitle": "",
+				"title": "Éditeur de l'app et stockage sécurisé des données"
+			},
+			"socialMedia": {
+				"subtitle": "",
+				"title": "Gestion des réseaux sociaux"
+			},
+			"sponsors": {
+				"subtitle": "Les sponsors et partenaires n’ont aucun accès privilégié aux données.",
+				"title": "Sponsors et partenaires"
+			},
+			"standard": {
+				"subtitle": "FHIR® est la marque déposée de HL7 et est utilisée avec l'autorisation de HL7. L'utilisation de la marque FHIR ne constitue pas une approbation de ce produit par HL7.",
+				"title": "Standard"
+			},
+			"supportedBy": {
+				"subtitle": "",
+				"title": "Soutenu par"
+			}
+		},
+		"partners": {
+			"advocacy": {
+				"hyperlink": "https://www.advocacy.ch/fr"
+			},
+			"ahdis": {
+				"hyperlink": "http://www.ahdis.ch"
+			},
+			"bfh": {
+				"hyperlink": "https://www.bfh.ch/fr/recherche-bfh/domaines-de-recherche/institute-medical-informatics-i4mi/"
+			},
+			"canton-be": {
+				"hyperlink": "https://www.gef.be.ch/gef/fr/index.html"
+			},
+			"canton-ne": {
+				"hyperlink": "https://www.ne.ch/autorites/DFS/SCSP/Pages/accueil.aspx"
+			},
+			"citizenscience": {
+				"hyperlink": "https://citizenscience.ch/de"
+			},
+			"corona": {
+				"hyperlink": "https://coronascience.ch/fr"
+			},
+			"ehealthsuisse": {
+				"hyperlink": "https://www.e-health-suisse.ch/fr"
+			},
+			"elca": {
+				"hyperlink": "https://www.elca.ch/fr"
+			},
+			"evaluescience": {
+				"hyperlink": "https://www.evaluescience.com"
+			},
+			"fhir": {
+				"hyperlink": "https://www.fhir.org"
+			},
+			"galenica": {
+				"hyperlink": "https://www.galenica.com/fr"
+			},
+			"gfch": {
+				"hyperlink": "https://promotionsante.ch"
+			},
+			"gfsbern": {
+				"hyperlink": "https://www.gfsbern.ch/fr"
+			},
+			"hl7": {
+				"hyperlink": "https://www.hl7.ch"
+			},
+			"htcs": {
+				"hyperlink": "https://www.healthtech.ch"
+			},
+			"midata": {
+				"hyperlink": "https://www.midata.coop/fr"
+			},
+			"opendata": {
+				"hyperlink": "https://fr.opendata.ch"
+			},
+			"richner": {
+				"hyperlink": "https://www.atelierrichner.ch"
+			},
+			"roche": {
+				"hyperlink": "https://www.roche.ch/fr/pharma.htm"
+			},
+			"santenext": {
+				"hyperlink": "https://santenext.ch/fr"
+			},
+			"schwedin": {
+				"hyperlink": "https://schwedin.ch"
+			},
+			"sdsc": {
+				"hyperlink": "https://datascience.ch"
+			},
+			"sgmi": {
+				"hyperlink": "https://sgmi-ssim.org"
+			},
+			"simeio": {
+				"hyperlink": "https://simeio.ch"
+			},
+			"swisslung": {
+				"hyperlink": "https://swisslung.org/fr"
+			}
+		}
+	},
+	"information": {
+		"title": "Informations"
+	},
+	"intro": {
+		"community": {
+			"text": "Deviens membre de la communauté et soutien la lutte contre la pandémie grâce à tes données anonymes.",
+			"title": "Ensemble contre le coronavirus!"
+		},
+		"dataSharing": {
+			"text": "Saisis ton état de santé et des informations complémentaires sur la COVID-19 deux fois par semaine.",
+			"title": "Partager ses données"
+		},
+		"measures": {
+			"text": "Suis les mesures de la Confédération et prend tes responsabilités – Garde tes distances.",
+			"title": "Social Distancing"
+		},
+		"notifications": {
+			"later": "Plus tard",
+			"text": "Merci d'autoriser les notifications afin de pouvoir te rappeler quand il est temps de saisir à nouveau des données."
+		},
+		"research": {
+			"text": "Tes données sont mises à disposition de la communauté Open Data de manière anonymisée.",
+			"title": "Permettre la recherche"
+		}
+	},
+	"settings": {
+		"myAccount": {
+			"title": "Mon compte"
+		},
+		"notifications": {
+			"information": "Les rappels n'apparaîtront que si aucun symptôme n'a été saisi dans l'intervalle sélectionné."
+		},
+		"other": {
+			"contact": {
+				"title": "Écris-nous",
+				"url": "mailto:info@coronascience.ch"
+			},
+			"feedback": {
+				"title": "Commentaire sur l'app"
+			},
+			"impressum": "Impressum",
+			"privacyPolicy": {
+				"title": "Déclaration de protection des données",
+				"url": "https://ch.midata.coop/#/portal/terms/midata-privacy-policy?lang=fr"
+			},
+			"termsOfUse": {
+				"title": "Conditions d'utilisation",
+				"url": "https://ch.midata.coop/#/portal/terms/corona-science-terms-of-use--1.0?lang=fr"
+			},
+			"title": "À propos de Corona Science"
+		},
+		"title": "Paramètres",
+		"userInterface": {
+			"selectLanguage": "Langues",
+			"title": "Langue"
+		}
+	},
+	"situation": {
+		"complete": "N'oublie pas de mettre à jour tes réponses si tu situation change.",
+		"incomplete": "Tu n'as pas répondu à au moins une question, ne veux-tu pas le faire?",
+		"thankYou": "Merci d'avoir saisi ta situation personnelle.",
+		"title": "Situation personnelle"
+	}
+}

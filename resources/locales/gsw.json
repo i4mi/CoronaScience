@@ -1,0 +1,231 @@
+{
+	"common": {
+		"back": "Zrügg",
+		"cancel": "Abbräche",
+		"invalidAnswer": "ungültigi Antwort",
+		"loading": "Date lade",
+		"login": "Registriere/Amäude",
+		"loginPromptText": "Bitte registrier di oder mäud di uf MIDATA a, um dini Date z'spichere.",
+		"loginPromptTitle": "Registrierig",
+		"logout": "Abmäude",
+		"multipleChoice": "Mehrfachuswau",
+		"next": "Witer",
+		"no": "Nei",
+		"notifications": {
+			"allow": "Benachrichtigunge erlaube",
+			"title": "Erinnerige"
+		},
+		"ok": "OK",
+		"save": "Spichere",
+		"skip": "Überspringe",
+		"yes": "Ja"
+	},
+	"dashboard": {
+		"completeSituation": "Mini persönlechi Situation",
+		"enterHealthStatus": "Mis Gsundheitszuestand",
+		"faq": {
+			"hyperlink": "https://coronascience.ch/de/faq/"
+		},
+		"getInfo": "Informatione zum Virus",
+		"questionOfTheDay": {
+			"noAnswer": "Bitte beantwort d'Frag vorem spichere.",
+			"thankYou": "Merci vüu mou für dini Antwort. Die nächsti Frag fougt gli."
+		},
+		"slogan": "Zäme gäge ds Coronavirus!",
+		"totalCollectedData": "Datesätz",
+		"totalUser": "Persone"
+	},
+	"healthStatus": {
+		"furtherInfo": "Witeri Informatione",
+		"noAnswer": "wot ned antworte",
+		"symptoms": {
+			"anosmia": "Geruchs-/\nGeschmacks­verlust",
+			"cough": "Hueschte",
+			"diarrhea": "Durchfau",
+			"dyspnea": "Atemnot",
+			"fatigue": "Müedigkeit",
+			"headache": "Chopf­schmärze",
+			"limbPain": "Glieder­schmärze",
+			"measuredTemperature": "Temperatur gmässe",
+			"symptoms": "Symptom",
+			"throatPain": "Haus­schmärze",
+			"title": "Erfassig"
+		},
+		"thankYou": "Merci für di Bitrag. Es wär sehr hilfriich, wenn du din Gsundheitszuestand regumässig würsch zwöi mau ir Woche erfasse."
+	},
+	"impressum": {
+		"categories": {
+			"dataset": {
+				"subtitle": "FHIR Implementation Guide COVID-19 PROM Dataset",
+				"title": "Spezifikation vo de Datesätz"
+			},
+			"design": {
+				"subtitle": "",
+				"title": "Visuelli Gestautig"
+			},
+			"editor": {
+				"subtitle": "",
+				"title": "Herausgäber vor App u sicheri Datehautig"
+			},
+			"socialMedia": {
+				"subtitle": "",
+				"title": "Verwautig vo de soziale Medie"
+			},
+			"sponsors": {
+				"subtitle": "Sponsore u Partner hei ke privilegierte Zugang zu de Date.",
+				"title": "Sponsore u Partner"
+			},
+			"standard": {
+				"subtitle": "FHIR® isch es itreits Warezeiche vo HL7 u wird mit der Erloubnis vo HL7 bruucht. Ds Bruuche vom FHIR-Markezeiche stöut ke Billigung vom Produkt dür HL7 dar.",
+				"title": "Standard"
+			},
+			"supportedBy": {
+				"subtitle": "",
+				"title": "Ungerstützt vo"
+			}
+		},
+		"partners": {
+			"advocacy": {
+				"hyperlink": "https://www.advocacy.ch/de"
+			},
+			"ahdis": {
+				"hyperlink": "http://www.ahdis.ch"
+			},
+			"bfh": {
+				"hyperlink": "https://i4mi.bfh.ch"
+			},
+			"canton-be": {
+				"hyperlink": "https://www.gef.be.ch/gef/de/index.html"
+			},
+			"canton-ne": {
+				"hyperlink": "https://www.ne.ch/autorites/DFS/SCSP/Pages/accueil.aspx"
+			},
+			"citizenscience": {
+				"hyperlink": "https://citizenscience.ch/de"
+			},
+			"corona": {
+				"hyperlink": "https://coronascience.ch/de"
+			},
+			"ehealthsuisse": {
+				"hyperlink": "https://www.e-health-suisse.ch/de"
+			},
+			"elca": {
+				"hyperlink": "https://www.elca.ch/de"
+			},
+			"evaluescience": {
+				"hyperlink": "https://www.evaluescience.com"
+			},
+			"fhir": {
+				"hyperlink": "https://www.fhir.org"
+			},
+			"galenica": {
+				"hyperlink": "https://www.galenica.com/de"
+			},
+			"gfch": {
+				"hyperlink": "https://gesundheitsfoerderung.ch"
+			},
+			"gfsbern": {
+				"hyperlink": "https://www.gfsbern.ch/de"
+			},
+			"hl7": {
+				"hyperlink": "https://www.hl7.ch"
+			},
+			"htcs": {
+				"hyperlink": "https://www.healthtech.ch"
+			},
+			"midata": {
+				"hyperlink": "https://midata.coop"
+			},
+			"opendata": {
+				"hyperlink": "https://opendata.ch"
+			},
+			"richner": {
+				"hyperlink": "https://www.atelierrichner.ch"
+			},
+			"roche": {
+				"hyperlink": "https://www.roche.ch/pharma.htm"
+			},
+			"santenext": {
+				"hyperlink": "https://santenext.ch/de"
+			},
+			"schwedin": {
+				"hyperlink": "https://schwedin.ch"
+			},
+			"sdsc": {
+				"hyperlink": "https://datascience.ch"
+			},
+			"sgmi": {
+				"hyperlink": "https://sgmi-ssim.org"
+			},
+			"simeio": {
+				"hyperlink": "https://simeio.ch"
+			},
+			"swisslung": {
+				"hyperlink": "https://swisslung.org/de"
+			}
+		}
+	},
+	"information": {
+		"title": "Informatione"
+	},
+	"intro": {
+		"community": {
+			"text": "Wird Mitglid vor Community u ungerstütz üs mit dine anonymisierte Date im Kampf gäge d'Pandemie.",
+			"title": "Zäme gäge ds Coronavirus!"
+		},
+		"dataSharing": {
+			"text": "Erfass di Gsundheitszuestand u witeri Informatione zu COVID-19 zwöi mau ir Woche.",
+			"title": "Date spände"
+		},
+		"measures": {
+			"text": "Befoug d'Massnahme vom Bund u übernimm Verantwortig – Halt Abstand.",
+			"title": "Social Distancing"
+		},
+		"notifications": {
+			"later": "Später",
+			"text": "Bitte erlaub Benachrichtigunge, damit mer de chöi erinnere wes wiedr Ziit isch, Date z'erfasse."
+		},
+		"research": {
+			"text": "Dini Date wärde anonymisiert dr Open Data Community zur Verfüegig gsteut.",
+			"title": "Forschig ermügleche"
+		}
+	},
+	"settings": {
+		"myAccount": {
+			"title": "Mis Konto"
+		},
+		"notifications": {
+			"information": "Erinnerige erschine nume, we du im gewäute Rhythmus ke Symptom erfassisch."
+		},
+		"other": {
+			"contact": {
+				"title": "Schrib üs",
+				"url": "mailto:info@coronascience.ch"
+			},
+			"feedback": {
+				"title": "App Feedback"
+			},
+			"impressum": "Impressum",
+			"privacyPolicy": {
+				"title": "Dateschutzerklärig",
+				"url": "https://ch.midata.coop/#/portal/terms/midata-privacy-policy?lang=de"
+			},
+			"termsOfUse": {
+				"title": "Nutzigsbedingige",
+				"url": "https://ch.midata.coop/#/portal/terms/corona-science-terms-of-use--1.0?lang=de"
+			},
+			"title": "Über Corona Science"
+		},
+		"title": "Istellige",
+		"userInterface": {
+			"selectLanguage": "Sprache",
+			"title": "Sprach"
+		}
+	},
+	"situation": {
+		"complete": "Faus se sech änderet, vergiss ned dini Antworte z'aktualisiere.",
+		"incomplete": "Mindestens ei Frag hesch no ned beantwortet, wosch ds ned grad no mache?",
+		"thankYou": "Merci für d'Erfassig vo dire persönleche Situation.",
+		"title": "Persönlechi Situation"
+	}
+}
