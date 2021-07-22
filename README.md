@@ -83,9 +83,7 @@ React Native is developed and supported by many companies and individual core co
 - [Requirements](#-requirements)
 - [Building your first React Native app](#-building-your-first-react-native-app)
 - [Documentation](#-documentation)
-- [MIDATA](#-MIDATA)
-- [How to Contribute](#-how-to-contribute)
-- [Code of Conduct](#code-of-conduct)
+- [MIDATA](#-midata)
 - [License](#-license)
 
 
@@ -107,13 +105,13 @@ Follow the [Getting Started guide](https://reactnative.dev/docs/getting-started.
 
 ## 📖 Documentation
 
-The full documentation for React Native can be found on our [website][docs].
+The full documentation for React Native can be found on this [website][gs-docs].
 
 The React Native documentation discusses components, APIs, and topics that are specific to React Native. For further documentation on the React API that is shared between React Native and React DOM, refer to the [React documentation][r-docs].
 
 The source for the React Native documentation and website is hosted on a separate repo, [**@facebook/react-native-website**][repo-website].
 
-[docs]: https://reactnative.dev/docs/getting-started.html
+[gs-docs]: https://reactnative.dev/docs/getting-started.html
 [r-docs]: https://reactjs.org/docs/getting-started.html
 [repo-website]: https://github.com/facebook/react-native-website
 
@@ -124,31 +122,13 @@ The source for the React Native documentation and website is hosted on a separat
 The MIDATA model is designed for international application: MIDATA Switzerland supports the foundation of regional or national MIDATA cooperatives that share the data platform infrastructure.
 Owners of a data account at MIDATA may actively contribute to medical research and clinical studies by granting selective access to their personal data. They may become members of the cooperative and thereby control the cooperative.
 
-The full documentation for MIDATA Developers can be found on [this website][docs].
+The full documentation for MIDATA Developers can be found on [this website][midata-api].
 
 [midata]: https://midata.coop
-[docs]: https://api-doc.midata.coop
+[midata-api]: https://api-doc.midata.coop
 
-## 👏 How to Contribute
-
-The main purpose of this repository is to continue evolving Corona Science. We want to make contributing to this project as easy and transparent as possible, and we are grateful to the community for contributing bug fixes and improvements. Read below to learn how you can take part in improving Corona Science.
-
-### [Code of Conduct][code]
-
-Has to be defined.
-In example:
-Please read the [full text][code] so that you can understand what actions will and will not be tolerated.
-
-[code]: https://code.fb.com/codeofconduct/
 
 ## 📄 License
-Has to be defined.
-<!--
-To be defined:
-Corona Science is MIT licensed, as found in the [LICENSE][l] file.
+Corona Science is licensed under the Apache License 2.0, as found in the [LICENSE][license] file.
 
-MIDATA documentation is Creative Commons licensed, as found in the [LICENSE-docs][ld] file.
-
-[l]: https://github.com/facebook/react-native/blob/master/LICENSE
-[ld]: https://github.com/facebook/react-native/blob/master/LICENSE-docs
--->
+[license]: https://github.com/i4mi/CoronaScience/blob/main/LICENSE
